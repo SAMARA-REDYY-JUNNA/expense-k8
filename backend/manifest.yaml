@@ -39,7 +39,6 @@ spec:
         - configMapRef:
             name: backend
 
-
 ---
 apiVersion: v1
 kind: Service
